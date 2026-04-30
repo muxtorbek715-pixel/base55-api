@@ -12,7 +12,8 @@
     "cors": "^2.8.5",
     "cookie-parser": "^1.4.6",
     "pino": "^8.17.0",
-    "pino-http": "^8.6.0"
+    "pino-http": "^8.6.0",
+    "pino-pretty": "^11.0.0"
   },
   "devDependencies": {
     "esbuild": "^0.25.0",
